@@ -15,7 +15,7 @@ A Seneca skeleton to write plugin
 
 - __Version:__ 0.0.1
 - __Tested on:__ Seneca 0.9.2
-- __Node:__ 0.10, 0.11, 0.12, 4, 5
+- __Node:__ 4, 5
 
 If you are new to Seneca in general, please take a look at [senecajs.org][]. We have everything from tutorials to sample apps to help get you up and running quickly.
 

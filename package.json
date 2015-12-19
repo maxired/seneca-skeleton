@@ -18,6 +18,9 @@
     "plugin",
     "skeleton"
   ],
+  "engines": {
+    "node": ">=4.0.0"
+  },
   "dependencies": {},
   "devDependencies": {
     "coveralls": "^2.11.6",
