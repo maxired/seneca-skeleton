@@ -26,7 +26,7 @@
     "seneca": "plugin"
   },
   "peerDependencies" : {
-    "seneca" : "0.7.x"
+    "seneca" : "0.9.x"
   },
   "files": [
     "README.md",
